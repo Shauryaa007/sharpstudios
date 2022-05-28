@@ -1,0 +1,34 @@
+#body::before {
+    content: "";
+    position: absolute;
+    background: url(bg.jpeg) no-repeat center center/cover;
+    height: 99%;
+    top: 168px;
+    opacity: 0.3;
+    left: -193px;
+    width: 169%;
+    z-index: -1;
+}
+nav {
+    flex-direction: column;
+    display: flex;
+    
+    width: 100%;
+    /* margin: 0px 0px -56px 0px; */
+    align-items: center;
+
+}
+
+#body::before {
+    content: "";
+    position: absolute;
+    background: url(bg.jpeg) no-repeat center center/cover;
+    height: 99%;
+    top: 168px;
+    left: -193px;
+    width: 169%;
+    z-index: -1;
+}
+#line {
+    font-size: 3rem;
+    font-weight: bold;}

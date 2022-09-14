@@ -1,0 +1,17 @@
+#form {
+    border: 5px solid white;
+    margin: 57px 0px;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 50px;
+    width: 249px; }
+
+    .input {
+        width: 225px;
+        margin: 17px;
+        height: 24px;
+        display: block;
+        color: black;
+            font-weight: bold;
+        }
+    
